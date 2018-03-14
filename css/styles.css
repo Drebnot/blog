@@ -24,6 +24,10 @@ div {
   margin-bottom: 20px;
 }
 
+span {
+  color: black;
+}
+
 .lorem {
   font-size: 20px;
   color: purple;
