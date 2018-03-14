@@ -1,0 +1,46 @@
+h1 {
+  text-align: center;
+  font-size: 100px;
+  color: purple;
+  text-decoration: underline;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  width: 50%;
+  border: solid;
+  border-color: purple;
+}
+
+body {
+  background-color: skyblue;
+}
+
+div {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.lorem {
+  font-size: 20px;
+  color: purple;
+  border: solid;
+  border-color: white;
+}
+
+.ipsum {
+  font-size: 20px;
+  color: purple;
+  border: solid;
+  border-color: yellow;
+}
+
+.third {
+  font-size: 20px;
+  color: purple;
+  border: solid;
+  border-color: black;
+}
